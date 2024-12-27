@@ -1,4 +1,4 @@
-# shoesly_app
+# Tezda_app
 
 A new Flutter project.
 
